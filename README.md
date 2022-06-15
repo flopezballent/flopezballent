@@ -1,6 +1,11 @@
 <h1 align="center">
-  Hi there, I'm Francisco 👋 <br><br>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200"/>
+  Hi there, I'm Francisco 👋 <br>
+  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/flopezballent/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 </h1>
 
 
